@@ -1,7 +1,7 @@
 ### Olá eu sou o Eduardo Vitorino 👋
 
 - 🔭 I’m currently: Assistente de Tecnologia da Informação 
-- 🌱 I’m currently: Front End 
+- 🌱 I’m currently: Mobile 
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoVitorinoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
