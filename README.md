@@ -1,7 +1,7 @@
 ### Olá eu sou o Eduardo Vitorino 👋
 
 - 🔭 I’m currently: Analista de Processo 
-- 🌱 I’m currently: Mobile 
+- 🌱 I’m currently: FrontEnd 
 
   ##
   
