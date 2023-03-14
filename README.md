@@ -1,6 +1,6 @@
 ### Olá eu sou o Eduardo Vitorino 👋
 
-- 🔭 I’m currently: Assistente de Tecnologia da Informação 
+- 🔭 I’m currently: Analista de Processo 
 - 🌱 I’m currently: Mobile 
 
   ##
